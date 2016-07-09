@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import RealmSwift
 
 enum TypeOfController{
   case UpdaterController

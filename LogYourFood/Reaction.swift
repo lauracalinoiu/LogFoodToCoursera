@@ -6,8 +6,6 @@
 //  Copyright © 2016 3smurfs. All rights reserved.
 //
 
-import RealmSwift
-
 enum Category: Int{
   case Apetit
   case Energy

@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import RealmSwift
 
 class RealmAPI{
   static let sharedInstance = RealmAPI()

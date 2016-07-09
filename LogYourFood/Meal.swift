@@ -6,8 +6,6 @@
 //  Copyright © 2016 3smurfs. All rights reserved.
 //
 
-import RealmSwift
-
 enum DishType: Int{
   case None = -1
   case Breakfast = 0

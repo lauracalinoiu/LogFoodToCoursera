@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import RealmSwift
 
 class DayOverviewController: UIViewController{
   

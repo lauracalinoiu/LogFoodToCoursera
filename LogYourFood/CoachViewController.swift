@@ -8,7 +8,6 @@
 
 import UIKit
 import MessageUI
-import FSCalendar
 
 class CoachViewController: UIViewController, FSCalendarDataSource, FSCalendarDelegate {
   
